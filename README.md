@@ -75,7 +75,7 @@ GitHub Repository
 
 GitHub Repository Link
 
-(Replace the link above with your actual GitHub repository URL after uploading.)
+(https://github.com/shrey-debug-17/java_assignment_7)
 
 License
 
