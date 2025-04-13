@@ -27,16 +27,24 @@ Features
 File Structure
 
 Java-Calculator/
-│
-├── Addition.java         // Contains addition logic
-├── Subtraction.java      // Contains subtraction logic
-├── Multiplication.java   // Contains multiplication logic
-├── Division.java         // Handles division and divide-by-zero cases
-├── Square.java           // Calculates square of a number
-├── Cube.java             // Calculates cube of a number
-├── SquareRoot.java       // Handles square root logic and exceptions
-├── CalculatorMain.java   // Main file with menu and input handling
-└── README.md             // Project documentation
+
+Addition.java         // Contains addition logic
+
+Subtraction.java      // Contains subtraction logic
+
+Multiplication.java   // Contains multiplication logic
+
+Division.java         // Handles division and divide-by-zero cases
+
+Square.java           // Calculates square of a number
+
+Cube.java             // Calculates cube of a number
+
+SquareRoot.java       // Handles square root logic and exceptions
+
+Main.java             // Main file with menu and input handling
+
+README.md             // Project documentation
 
 How to Run
 
